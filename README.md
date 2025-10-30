@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with clean architecture patterns in mind and tailored specifically for "ALIVE-Imaginationexpander" in the "imagination_expander" domain, implemented in Python.
+    This project was conceived with human-in-the-loop design in mind and tailored specifically for "ALIVE-Imaginationexpander" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `5a3ac8c94050` • Generated: 2025-10-30T05:57:46.882268
+    Project Fingerprint: `4acc5eafb37b` • Generated: 2025-10-30T06:01:45.902162
     
 
 ## Insights from Research
 
-- Video: How To Think Like An Architect: Exercising the Imagination
-- Video: How To Think Like An Architect: Improving Design
-- Video: 6 Strategies to 10X Your Architecture Practice
-- Video: architecture from imagination 1
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB
+- Video: Manuel Blum - Towards a Conscious AI: A Computer Architecture inspired by Neuroscience
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- Repo idea: A list of AI autonomous agents
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
 - Repo idea:  :books: Find your next book to read!
-- Repo idea:  A collection of resources and papers on Diffusion Models
-- Repo idea: Infinite responsive, sortable, filterable and draggable layouts
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=7Gq6vpmR3CQ
-- https://www.youtube.com/watch?v=7Gq6vpmR3CQ
-- https://www.youtube.com/watch?v=7Gq6vpmR3CQ
-- https://www.youtube.com/watch?v=7Gq6vpmR3CQ
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- f/awesome-chatgpt-prompts ⭐ 135921 — https://github.com/f/awesome-chatgpt-prompts
-- e2b-dev/awesome-ai-agents ⭐ 23688 — https://github.com/e2b-dev/awesome-ai-agents
+- f/awesome-chatgpt-prompts ⭐ 135922 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
 - hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
-- diff-usion/Awesome-Diffusion-Models ⭐ 12100 — https://github.com/diff-usion/Awesome-Diffusion-Models
-- haltu/muuri ⭐ 10916 — https://github.com/haltu/muuri
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
