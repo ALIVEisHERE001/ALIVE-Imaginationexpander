@@ -6,7 +6,7 @@ Tests for ALIVE-Imaginationexpander
 import unittest
 from main import *
 
-class TestImaginationexpander(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
